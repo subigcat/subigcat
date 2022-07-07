@@ -1,0 +1,16 @@
+O:\Project\C#\pc\bin\Debug\pc.exe.config
+O:\Project\C#\pc\bin\Debug\pc.exe
+O:\Project\C#\pc\bin\Debug\pc.pdb
+O:\Project\C#\pc\bin\Debug\CircularProgressBar.dll
+O:\Project\C#\pc\bin\Debug\WinFormAnimation.dll
+O:\Project\C#\pc\bin\Debug\CircularProgressBar.xml
+O:\Project\C#\pc\bin\Debug\WinFormAnimation.xml
+O:\Project\C#\pc\obj\Debug\pc.csproj.AssemblyReference.cache
+O:\Project\C#\pc\obj\Debug\pc.Properties.Resources.resources
+O:\Project\C#\pc\obj\Debug\pc.csproj.GenerateResource.cache
+O:\Project\C#\pc\obj\Debug\pc.csproj.CoreCompileInputs.cache
+O:\Project\C#\pc\obj\Debug\pc.csproj.CopyComplete
+O:\Project\C#\pc\obj\Debug\pc.exe
+O:\Project\C#\pc\obj\Debug\pc.pdb
+O:\Project\C#\PC\bin\Debug\OpenHardwareMonitorLib.dll
+O:\Project\C#\PC\obj\Debug\pc.Form1.resources

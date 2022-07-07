@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bigcat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++ 、 c# 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @bigcat
+I’m interested in code 、 diy itx pc 、make and fix consumer electronics like mouse or keyboard
+I’m currently learning c++ 、 c# 
+
 
 <!---
 subigcat/subigcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

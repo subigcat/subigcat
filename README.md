@@ -4,7 +4,7 @@ I’m interested in code 、 diy itx pc 、make and fix consumer electronics lik
 I’m currently learning c++ 、 c# 
 
 
-pc prject (ongoing)
+
 
 
 <!---

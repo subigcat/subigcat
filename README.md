@@ -4,6 +4,9 @@ I’m interested in code 、 diy itx pc 、make and fix consumer electronics lik
 I’m currently learning c++ 、 c# 
 
 
+pc monitor 
+![pc monitor](https://user-images.githubusercontent.com/75317168/178497278-19278a07-562f-458c-b692-04cf268864df.png)
+
 
 
 

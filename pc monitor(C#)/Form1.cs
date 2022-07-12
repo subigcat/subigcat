@@ -40,7 +40,7 @@ namespace pc
         }
         private void InitializeTimer()
         {            
-            Timer1.Interval = 1000;
+            Timer1.Interval = 500;
             Timer1.Tick += new EventHandler(Timer1_Tick);
             Timer1.Enabled = true;
         }

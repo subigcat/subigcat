@@ -368,7 +368,7 @@ namespace pc
             this.tableLayoutPanel2.Controls.Add(this.availablememorytext, 0, 1);
             this.tableLayoutPanel2.Controls.Add(this.usedmemorytext, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.usedmemoryshow, 1, 0);
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(1, 276);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 247);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 2;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -785,14 +785,15 @@ namespace pc
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.ClientSize = new System.Drawing.Size(798, 661);
+            this.ClientSize = new System.Drawing.Size(800, 512);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "pc monitor";
             this.panel1.ResumeLayout(false);
             this.tableLayoutPanel8.ResumeLayout(false);
             this.tableLayoutPanel8.PerformLayout();

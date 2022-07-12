@@ -6,7 +6,8 @@ I’m currently learning c++ 、 c#
 
 pc monitor 
 
-![pc monitor](https://user-images.githubusercontent.com/75317168/178497278-19278a07-562f-458c-b692-04cf268864df.png)
+![pc monitor](https://user-images.githubusercontent.com/75317168/178497920-9d0e6324-625f-4147-a134-629715932c89.png)
+
 
 
 

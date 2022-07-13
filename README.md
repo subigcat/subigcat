@@ -10,8 +10,11 @@ pc monitor
 
 recod chart
 
-![add](https://user-images.githubusercontent.com/75317168/178713585-bee7383f-43b5-4c7e-a397-f7d7b21ee5c4.png)![carlist](https://user-images.githubusercontent.com/75317168/178713591-0e920877-a03d-4312-a6ee-f672b43c21ad.png)
-![fixadd](https://user-images.githubusercontent.com/75317168/178713599-4f4f6bff-6f85-488c-88ee-88c9b0d31e9b.png)![fixlist](https://user-images.githubusercontent.com/75317168/178713603-52eed626-e71e-474f-89ea-d1f13fc84495.png)
+![add](https://user-images.githubusercontent.com/75317168/178713667-ab250114-b129-41bb-8b99-7d672d4add66.png)![carlist](https://user-images.githubusercontent.com/75317168/178713695-7ec9700d-6707-4052-bfe2-5a58f986417b.png)
+
+![fixadd](https://user-images.githubusercontent.com/75317168/178713701-950231e4-4790-43ab-b395-fcf3a8fd5983.png)![fixlist](https://user-images.githubusercontent.com/75317168/178713712-de0c2124-ed9d-494b-96cc-4442df52a890.png)
+
+
 
 
 
